@@ -1,16 +1,9 @@
-# ecom
+# E-commerce User Application
 
-A new Flutter project.
+This is a **E-commerce** Mobile application which is Basically work on Flutter and Firebase Framwork in this Application user can see the item based on the Category and then place order of the items.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Features of the Application:- 
+  1) **Security**:- Login based on the permission from the Admin pannel. Customer first reqest to the admin for getting id of the application after getting the permission of the User application user can able to enter in the application via a login. Login process is based on the mobile number and email id both are required to Authentication. 
+  2) **Product Based on the Caategory**:- Number of the Products is distributed by a diffrant category name. 
+  3) **Add to cart Facility**
+![Screenshot_1665905923](https://user-images.githubusercontent.com/79891868/196024044-82d2da91-f87e-4b00-a942-344ba0d417ee.png)
